@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 qdrant/qdrant
+xuxueli/xxl-job-admin:2.4.1
 
