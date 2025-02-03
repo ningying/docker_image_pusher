@@ -9,5 +9,4 @@ qdrant/qdrant
 xuxueli/xxl-job-admin:2.4.1
 minio/minio
 sonatype/nexus3
-nacos/nacos-server
-
+nacos/nacos-server:v2.2.1
