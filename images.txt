@@ -14,3 +14,4 @@ gitlab/gitlab-ce:14.1.4-ce.0
 jenkins/jenkins:2.453
 wurstmeister/zookeeper
 wurstmeister/kafka
+tdengine/tdengine:3.1.0.0
