@@ -19,3 +19,4 @@ openjdk:8-jdk-alpine
 pytorch/torchserve:0.11.0-cpu
 rustdesk/rustdesk-server:1.1.12
 atlassian/confluence-server:7.2.0
+python:3.9-slim
