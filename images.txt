@@ -24,3 +24,4 @@ continuumio/miniconda3:latest
 ubuntu:20.04
 alpine:3.14
 mobileapart/photon:latest
+ambrusadrianz/photon:0.3.2
