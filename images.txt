@@ -5,25 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-qdrant/qdrant
-xuxueli/xxl-job-admin:2.4.1
-minio/minio
-sonatype/nexus3
-nacos/nacos-server:v2.3.0
-gitlab/gitlab-ce:14.1.4-ce.0
-jenkins/jenkins:2.453
-wurstmeister/zookeeper
-wurstmeister/kafka
-tdengine/tdengine:3.1.0.0
-openjdk:8-jdk-alpine
-pytorch/torchserve:0.11.0-cpu
-rustdesk/rustdesk-server:1.1.12
-atlassian/confluence-server:7.2.0
-python:3.9-slim
-continuumio/miniconda3:latest
-ubuntu:20.04
-alpine:3.14
-openjdk:11-jre-slim
-elasticsearch:5.6.16
-postgis/postgis:14-3.4
 herodotus/herodotus-cloud-ui:v3.5.7.0
